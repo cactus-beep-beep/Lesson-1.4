@@ -1,14 +1,14 @@
 /*
 AP CS A
-Name: [FIRST AND LAST NAME]
-Date: [CURRENT DATE]
+Name: Cameron Bakhtiari
+Date: 8/27/25
 Teacher: Ms. Gee
-Assignment: Project 0 - Hello World!
-Description: [WRITE ANYTHING APPROPIATE HERE.]
+Assignment: Lesson 1.4
+Description: learn how to copy things.
 */
 
 public class Copy {
-  public static void main(string[]args) {
+  public static void main(String[]args) {
 
     int x = 0;
     int y ;
@@ -16,7 +16,7 @@ public class Copy {
     y=x;  // how do I copy the information from x into the variable y?
 
     System.out.println("x: " + x); //print before you copy
-    System.out.println(y: " + y);
+    System.out.println("y: " + y);
 
   }
 }
